@@ -1,0 +1,26 @@
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\bin\Debug\projekt.mdf
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\bin\Debug\projekt_log.ldf
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.LogIn.resources
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.RasporedView.resources
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\isovic\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\bin\Debug\projekt.mdf
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\bin\Debug\projekt_log.ldf
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.LogIn.resources
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.RasporedView.resources
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Racunalo\Documents\Visual Studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
